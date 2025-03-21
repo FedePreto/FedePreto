@@ -73,11 +73,11 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a strong f
 
 ## 🎓 Education 
 
-# Università Politecnica delle Marche 
+### Università Politecnica delle Marche 
 - **Bachelor's degree in:** Ingegneria Informatica e dell'Automazione
 - **Graduation date:** July 2023
  
-# Politecnico di Torino
+### Politecnico di Torino
 - **Master's degree in:** Computer Engineering 
 - **Specialist track:** Automation and Intelligent Cyber-Physical Systems
 - **Expected graduation date:** 2025
