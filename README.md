@@ -73,11 +73,11 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a strong f
 
 ## 🎓 Education 
 
-- **University:** Università Politecnica delle Marche 
+# Università Politecnica delle Marche 
 - **Bachelor's degree in:** Ingegneria Informatica e dell'Automazione
 - **Graduation date:** July 2023
  
-- **University:** Politecnico di Torino
+# Politecnico di Torino
 - **Master's degree in:** Computer Engineering 
 - **Specialist track:** Automation and Intelligent Cyber-Physical Systems
 - **Expected graduation date:** 2025
@@ -109,7 +109,7 @@ Feel free to explore my projects and get in touch if you're interested in collab
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
 
 <!-- Optional: Add badges -->
-![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
+<!---![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/yourusername/yourrepository?style=social)
 --->
 ###
@@ -120,11 +120,5 @@ Feel free to explore my projects and get in touch if you're interested in collab
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FedePreto/FedePreto/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FedePreto/FedePreto/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=FedePreto&theme=dark" alt="Layout with last medium posts"  />
-</div>
 
 ###
