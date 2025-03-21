@@ -1,24 +1,7 @@
-## Hi there 👋
-
-###
-
-<p align="left">My name is ... and I'm a ..., from ....</p>
-<!--
-**FedePreto/FedePreto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1>Hi 👋, I'm </h1>
-<p>A passionate frontend developer from </p>
+<!---
+<h1>Hi 👋, I'm Federico Pretini</h1>
+<p align="left">- 🔭 I’m currently studyn</p>
+<p align="left">- 🌱 I’m currently learning ...</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
@@ -81,7 +64,56 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
 
+--->
+# Hi there, I'm Federico 👋
+
+Welcome to my GitHub profile! I'm a passionate software engineer with a strong focus on automation and robotics. Below you can find some key information about my background, skills, and current learning path.
+
+---
+
+## 🎓 Education 
+
+- **University:** Università Politecnica delle Marche 
+- **Bachelor's degree in:** Ingegneria Informatica e dell'Automazione
+- **Graduation date:** July 2023
+ 
+- **University:** Politecnico di Torino
+- **Master's degree in:** Computer Engineering 
+- **Specialist track:** Automation and Intelligent Cyber-Physical Systems
+- **Expected graduation date:** 2025
+<!---
+
+## 💡 What I've Learned
+- **Programming Languages:** Java, Python, C++, Kotlin
+- **Web Development:** HTML, CSS, JavaScript, PHP, Laravel
+- **Mobile Development:** Android (Kotlin)
+- **Tools & Technologies:** Git, Docker, Firebase
+
+---
+
+## 📚 What I'm Currently Learning
+- **Robotics:** Deepening my understanding of robotics systems and automation.
+- **ROS (Robot Operating System):** Expanding my skills in developing robotic applications.
+- **Emerging Technologies:** Continuously exploring new trends in tech.
+
+---
+
+## 🤖 Passion for Robotics
+I have a strong passion for robotics and automation. I enjoy tackling complex challenges and developing innovative solutions that merge software with real-world robotic applications.
+
+---
+
+## 📫 Let's Connect!
+Feel free to explore my projects and get in touch if you're interested in collaboration or learning more about my work.  
+- **Email:** [your.email@example.com]  
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+
+<!-- Optional: Add badges -->
+![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
+![GitHub stars](https://img.shields.io/github/stars/yourusername/yourrepository?style=social)
+--->
 ###
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FedePreto/FedePreto/output/pacman-contribution-graph-dark.svg">
